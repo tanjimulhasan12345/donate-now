@@ -1,1 +1,164 @@
-.main{}
+*{margin: 0;font-family: "Open Sans", sans-serif;}
+
+.header{background-image: url(images/poor\ people.avif);
+        background-repeat: no-repeat;
+        text-align: center;
+        background-position:center;
+        background-color: rgba(114, 96, 56, 0.349);
+        padding:1px 200px;text-shadow: 6px 6px 6px rgba(0, 0, 0, 0.315);}
+
+.header-2{margin: 189px 300px;}
+
+.header-title{color: #dddddd;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;margin-bottom: 18px;}
+
+.header-text{font-size: 18px;
+            color: #ffffff;
+            margin-bottom: 18px;}
+
+.btn-primary{padding: 18px 35px;
+                border-radius: 5px;
+                background: hsl(0, 100%, 59%);
+                font-size: 20px;
+                color: var(--White-Color, #FFF);
+                border: none;}
+
+.pay{text-align: center;
+    margin-top: 150px;}
+
+.pay-title{color: #121212;
+    text-align: center;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;margin-bottom: 20px;}
+
+.pay-text{color: #707070;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;}
+
+.taka > ul{display:flex;margin: 50px 410px;}
+
+li{list-style:none;
+color: #707070;
+font-size: 30px;
+margin-right:47px;
+background-color: #FAFAFA;
+padding: 24px 44px;border-radius: 5px;
+}
+
+li:hover{border: 2px solid #FF5959;background: #FEE;border-radius: 5px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
